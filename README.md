@@ -1,7 +1,7 @@
 # Repo
 Mobile library search and GitHub star manage
 
-[Download](https://dl.devmate.com/com.moshou.Repo/CodeBox.zip)
+[Download from devmate](https://dl.devmate.com/com.moshou.Repo/CodeBox.zip)
 
 ![img](https://github.com/hhgz9527/Repo/blob/master/Desktop.png)
 
